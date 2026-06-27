@@ -2,11 +2,30 @@ import { motion } from "framer-motion";
 import { Sparkles, Flower2, Wine, Music, Moon } from "lucide-react";
 
 const events = [
-  { time: "16:00", title: "Arrival & Aperitif", desc: "Champagne in the rose garden.", Icon: Sparkles },
-  { time: "17:00", title: "Ceremony", desc: "Vows beneath the olive trees.", Icon: Flower2 },
-  { time: "19:00", title: "Dinner", desc: "A slow Provençal feast.", Icon: Wine },
-  { time: "21:30", title: "First Dance", desc: "Music begins under the lanterns.", Icon: Music },
-  { time: "00:00", title: "Midnight Toast", desc: "To forever — and one more song.", Icon: Moon },
+  {
+    time: "8:00 pm",
+    title: "Arrival",
+    desc: "Guest arrival & welcome.",
+    Icon: Sparkles,
+  },
+  {
+    time: "10:00 pm",
+    title: "Dinner",
+    desc: "Dinner is served.",
+    Icon: Wine,
+  },
+  {
+    time: "11:00 pm",
+    title: "Second Entrance",
+    desc: "The second entrance begins.",
+    Icon: Music,
+  },
+  {
+    time: "12:00 am",
+    title: "End of Event",
+    desc: "Thank you for celebrating with us.",
+    Icon: Moon,
+  },
 ];
 
 export function Timeline() {

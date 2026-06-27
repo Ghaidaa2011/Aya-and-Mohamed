@@ -4,7 +4,7 @@ const palette = [
   { name: "Blush", hex: "#F4D4D4" },
   { name: "Champagne", hex: "#E8D5B7" },
   { name: "Dusty Rose", hex: "#C9A0A0" },
-  { name: "Ivory", hex: "#F8F1E5" },
+  { name: "Baby Blue", hex: "#DCEEFF" },
   { name: "Mauve", hex: "#B89BAE" },
   { name: "Sage", hex: "#B8C5A6" },
 ];
