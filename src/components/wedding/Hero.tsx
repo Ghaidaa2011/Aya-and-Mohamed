@@ -43,10 +43,10 @@ export function Hero() {
           transition={{ duration: 1.2, delay: 0.5 }}
           className="mt-6 text-6xl leading-[0.95] text-primary md:text-[10rem]"
         >
-          Tala
+          Mohamed
           <span className="mx-4 font-script text-5xl text-rose md:text-7xl">&</span>
           <br className="md:hidden" />
-          Mohamed
+          Aya
         </motion.h1>
 
         <motion.div
@@ -56,10 +56,10 @@ export function Hero() {
           className="mt-10"
         >
           <div className="divider-ornament">
-            <span className="text-xs uppercase tracking-[0.5em] text-rose-deep">7 · 11 · 2026</span>
+            <span className="text-xs uppercase tracking-[0.5em] text-rose-deep">12 · 7 · 2026</span>
           </div>
           <p className="mt-6 text-sm uppercase tracking-[0.4em] text-muted-foreground">
-            The St. Regis, Cairo
+            7 Sky Hall
           </p>
         </motion.div>
 

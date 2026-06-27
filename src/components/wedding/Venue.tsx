@@ -25,7 +25,7 @@ export function Venue() {
           <div className="absolute bottom-6 left-6 right-6 flex items-end justify-between">
             <div className="text-primary-foreground">
               <p className="font-script text-xl">where it begins</p>
-              <p className="text-xs uppercase tracking-[0.4em]">The St. Regis, Cairo</p>
+              <p className="text-xs uppercase tracking-[0.4em]">7 Sky Hall</p>
             </div>
           </div>
         </motion.div>
@@ -37,17 +37,17 @@ export function Venue() {
           transition={{ duration: 1, delay: 0.2 }}
         >
           <p className="text-xs uppercase tracking-[0.4em] text-rose-deep">The Venue</p>
-          <h2 className="mt-4 text-5xl text-primary">The St. Regis, Cairo</h2>
+          <h2 className="mt-4 text-5xl text-primary">7 Sky Hall</h2>
           <p className="mt-6 leading-relaxed text-muted-foreground">
             A 17th-century estate nestled between lavender fields and ancient olive groves. Ceremony
             in the rose garden at sunset, reception under the stars.
           </p>
           <div className="mt-8 flex items-center gap-3 text-sm text-rose-deep">
             <MapPin className="h-4 w-4" />
-            <span>The St. Regis, Cairo</span>
+            <span>7 Sky Hall</span>
           </div>
           <a
-            href="https://www.google.com/maps/place/%D8%B0%D8%A7+%D8%B3%D8%A7%D9%86%D8%AA+%D8%B1%D9%8A%D8%AC%D9%8A%D8%B3+%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9+location%E2%80%AD/data=!4m2!3m1!1s0x145840e5930a1683:0x7c05897b40456e04?sa=X&ved=1t:242&ictx=111"
+            href="https://maps.app.goo.gl/ZEEBu577p26esyXSA"
             target="_blank"
             rel="noreferrer"
             className="glass glow-hover mt-8 inline-flex items-center gap-3 rounded-full px-7 py-4 text-sm uppercase tracking-[0.3em] text-primary"

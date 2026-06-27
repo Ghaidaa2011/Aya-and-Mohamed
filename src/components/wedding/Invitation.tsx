@@ -19,7 +19,7 @@ export function Invitation() {
           We invite you to share in the quiet beginning of our forever. A day of gentle vows, slow
           dinners, and dancing beneath the olive trees.
         </p>
-        <p className="font-script mt-10 text-2xl text-rose-deep">— Tala & Mohamed</p>
+        <p className="font-script mt-10 text-2xl text-rose-deep">— Mohamed & Aya</p>
       </motion.div>
     </section>
   );

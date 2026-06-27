@@ -14,11 +14,11 @@ export const Route = createFileRoute("/")({
   component: Index,
   head: () => ({
     meta: [
-      { title: "Tala & Mohamed · November 7, 2026" },
+      { title: "Mohamed & Aya · July 12, 2026" },
       {
         name: "description",
         content:
-          "A luxury wedding invitation for the marriage of Tala & Mohamed at The St. Regis, Cairo — November 7, 2026.",
+          "A luxury wedding invitation for the marriage of Mohamed & Aya at 7 Sky Hall — July 12, 2026.",
       },
     ],
     links: [
@@ -51,7 +51,7 @@ function Loader({ onDone }: { onDone: () => void }) {
           transition={{ duration: 1 }}
           className="font-script text-5xl text-rose-deep"
         >
-          Tala &amp; Mohamed
+          Mohamed &amp; Aya
         </motion.div>
         <motion.div
           initial={{ scaleX: 0 }}

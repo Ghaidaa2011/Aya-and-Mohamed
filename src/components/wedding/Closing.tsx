@@ -35,11 +35,11 @@ export function Closing() {
           className="mt-6 text-5xl text-primary md:text-7xl"
         >
           With love, <br />
-          <span className="font-script text-rose-deep">Tala & Mohamed</span>
+          <span className="font-script text-rose-deep">Mohamed & Aya</span>
         </motion.h2>
         <div className="divider-ornament mt-12">✦</div>
         <p className="mt-6 text-xs uppercase tracking-[0.5em] text-muted-foreground">
-          November Seventh · Two Thousand Twenty Six
+          July 12th · 2026
         </p>
       </div>
     </section>

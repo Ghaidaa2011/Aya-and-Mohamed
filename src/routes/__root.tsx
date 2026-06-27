@@ -72,14 +72,14 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "Tala & Mohamed · Nov 7, 2026" },
-      { name: "description", content: "Tala & Mohamed's wedding invitation" },
-      { name: "author", content: "Tala & Mohamed" },
-      { property: "og:title", content: "Tala & Mohamed · Nov 7, 2026" },
-      { property: "og:description", content: "Tala & Mohamed's wedding invitation" },
+      { title: "Mohamed & Aya · Nov 7, 2026" },
+      { name: "description", content: "Mohamed & Aya's wedding invitation" },
+      { name: "author", content: "Mohamed & Aya" },
+      { property: "og:title", content: "Mohamed & Aya · Nov 7, 2026" },
+      { property: "og:description", content: "Mohamed & Aya's wedding invitation" },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary" },
-      { name: "twitter:site", content: "@TalaAndMohamed" },
+      { name: "twitter:site", content: "@MohamedAndAya" },
     ],
     links: [
       {
